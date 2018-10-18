@@ -7,4 +7,4 @@ Future work: more advanced AI versions, code polishing
 
 To run: type java xsio (in terminal)
 
-Project started on: 20.10.2017 (first year @ Univ. of Warwick)
+Developed during the first trimester of my first year @ Univ. of Warwick.
