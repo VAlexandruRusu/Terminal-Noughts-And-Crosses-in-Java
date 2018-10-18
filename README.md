@@ -7,4 +7,4 @@ Future work: more advanced AI versions, code polishing
 
 To run: type java xsio (in terminal)
 
-Developed during the first trimester of my first year @ Univ. of Warwick.
+Developed during the first trimester of my first year @ Univ. of Warwick (2017).
