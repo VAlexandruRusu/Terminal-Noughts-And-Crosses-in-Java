@@ -1,0 +1,17 @@
+Noughts and Crosses is a simple game, played by two people.
+
+The object of Noughts and Crosses is to get a winning line of three Noughts or three Crosses (note: you can change the noughts or crosses to a different symbol) in either a horizontal, vertical or diagonal row.
+
+The Noughts and Crosses board is a square grid containing nine squares arranged in threes.
+
+The player with the Xs starts the game by positioning his X in a square. The player with the Os follows and both players take turns to move and occupy the squares of the grid trying to make a row of three and at the same time also block their opponent.
+
+The board is a 3x3 grid, input is taken as a pair (x,y), where the first position is (0,0). x controls the line, while y controls the row. The board layout is as follows:
+
+             y
+        0    1    2
+--------------------
+  0  | 0,0  0,1  0,2 
+x 1  | 1,0  1,1  1,2
+  2  | 2,0  2,1  2,2
+
